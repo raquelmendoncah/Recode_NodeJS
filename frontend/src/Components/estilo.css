@@ -1,0 +1,182 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+/* header{
+    height: 70px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+}
+
+header a img{
+    height: 70px;
+
+}
+
+header a{
+    width: 25%;
+    color: white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    min-height: calc(100vh - 270px) ;
+    width: 100%;
+}
+
+footer{
+    height: 200px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer img{
+    height: 70px;
+}
+
+footer p:nth-of-type(1){
+    color: red;
+    font-size: 1.5rem;
+}
+
+.mainProdutos{
+    display:flex;
+}
+
+.sectionCategorias{
+    display: flex;
+    flex-direction: column;
+    width: 15%;
+}
+
+.sectionProdutos{
+    width: 85%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
+
+.sectionCategorias h3{
+    padding: 10px;
+    font-size: 1.5rem;
+}
+
+.sectionCategorias a{
+    padding: 8px;
+    cursor: pointer;
+}
+
+.card{
+    width: 300px;
+    height: 400px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+      
+}
+/* .card img{
+    width: 250px;  
+} */
+
+/* 
+.card p:nth-of-type(1){
+    width: 80%;
+    border-bottom: 2px solid black;
+    font-size: 1rem;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.card p:nth-of-type(2){
+    font-size: 0.8rem;
+    text-decoration: line-through;
+    padding: 10px;
+
+}
+
+.card p:nth-of-type(3){
+    font-size: 1.5rem;
+    color: red;
+
+}
+.mainHome h1{
+    padding: 10px;
+}
+.mainHome h3{
+    font-size: 1rem;
+    padding: 8px;
+}
+
+.mainLojas{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+
+.mainLojas section{
+    width: 250px;
+    height: 110px;
+    padding: 30px;
+    background-color: darkblue;
+    color: white;
+    border-radius: 20px;
+}
+
+.mainFaleconosco{
+    display: flex;
+}
+
+.sectionContatos div img{
+    width: 50px;
+}
+
+.sectionContatos{
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 50%;
+}
+
+.sectionContatos div{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+}
+
+.sectionMensagem{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 50px;
+    width: 50%;
+}
+
+.sectionMensagem button, .sectionMensagem p, .sectionMensagem input,.sectionMensagem textarea{
+    margin: 5px;
+}
+
+.sectionMensagem button{
+    width: 50px;
+} */
